@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-21T13:40:13Z" name="Default suite" finished-at="2022-03-21T13:41:02Z" duration-ms="49263">
+    <groups>
+    </groups>
+    <test started-at="2022-03-21T13:40:13Z" name="Default test" finished-at="2022-03-21T13:41:02Z" duration-ms="49263">
+      <class name="testcases.TestProject">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.TestProject@45e37a7e]" started-at="2022-03-21T13:40:13Z" name="setUp" description="Open URL on browser" finished-at="2022-03-21T13:40:34Z" duration-ms="20940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="enter_SiginDetails()[pri:0, instance:testcases.TestProject@45e37a7e]" started-at="2022-03-21T13:40:34Z" name="enter_SiginDetails" description="Login to application" finished-at="2022-03-21T13:40:35Z" duration-ms="1251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_SiginDetails -->
+        <test-method signature="create_new_dashboard()[pri:0, instance:testcases.TestProject@45e37a7e]" started-at="2022-03-21T13:40:35Z" name="create_new_dashboard" description="Create New Dashboard " finished-at="2022-03-21T13:40:46Z" duration-ms="10246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_new_dashboard -->
+        <test-method signature="dashboard_tabs()[pri:0, instance:testcases.TestProject@45e37a7e]" started-at="2022-03-21T13:40:46Z" name="dashboard_tabs" description="Dashboard Operations" finished-at="2022-03-21T13:40:52Z" duration-ms="6565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboard_tabs -->
+        <test-method signature="set_date_time()[pri:0, instance:testcases.TestProject@45e37a7e]" started-at="2022-03-21T13:40:52Z" name="set_date_time" description="Set DATE and TIME  " finished-at="2022-03-21T13:40:58Z" duration-ms="5881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set_date_time -->
+        <test-method signature="create_new_project()[pri:0, instance:testcases.TestProject@45e37a7e]" started-at="2022-03-21T13:40:58Z" name="create_new_project" description="Create New Project " finished-at="2022-03-21T13:41:02Z" duration-ms="4156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_new_project -->
+      </class> <!-- testcases.TestProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

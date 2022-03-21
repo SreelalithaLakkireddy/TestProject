@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ UI Suite]" verbose="0">
+  <test name="Tests For UZI(failed)">
+    <classes>
+      <class name="testcases.TestLogin">
+        <methods>
+          <include name="create_new_dashboard"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.TestLogin -->
+    </classes>
+  </test> <!-- Tests For UZI(failed) -->
+</suite> <!-- Failed suite [ UI Suite] -->

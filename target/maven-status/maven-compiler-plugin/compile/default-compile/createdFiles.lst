@@ -1,0 +1,4 @@
+pages\DashboardPage.class
+pages\CreateDashboardPage.class
+pages\SignInPage.class
+testcases\TestLogin.class
